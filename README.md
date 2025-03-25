@@ -91,14 +91,14 @@ Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras. Com expe
     alt="GitHub Stats" 
     height="200" 
     style="padding: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabrielluttjohann&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=gclut&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 
 <img 
     align="left" 
     alt="GitHub Top Languages" 
     height="140" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluttjohann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gclut&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
-![snake gif](https://github.com/gabrielluttjohann/gabrielluttjohann/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/gclut/gclut/blob/output/github-snake-dark.svg)
